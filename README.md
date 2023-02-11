@@ -1,0 +1,1 @@
+"This implementation uses a class to keep track of the balance and transactions, and provides methods for depositing, withdrawing, checking the balance, and viewing the transactions. In the main function, a simple command line interface is provided to allow the user to interact with the budget tracker" 
